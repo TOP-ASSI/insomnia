@@ -1,0 +1,5 @@
+{"_id":"env_4d6e3d89ee8c2e888e4f5cf8fcfb52592f2b3595","type":"Environment","parentId":"wrk_e457cb8651b74159bfc4518db3663185","modified":1620323760758,"created":1620323760758,"name":"Base Environment","data":{},"dataPropertyOrder":null,"color":null,"isPrivate":false,"metaSortKey":1620323760758}
+{"_id":"env_6eacd7766ef94fe284fd747cd4d8ee1f","type":"Environment","parentId":"env_4d6e3d89ee8c2e888e4f5cf8fcfb52592f2b3595","modified":1621216254580,"created":1621216200773,"name":"local","data":{"hostname":"http://www.lululala.wehago.com:8000"},"dataPropertyOrder":{"&":["hostname"]},"color":null,"isPrivate":false,"metaSortKey":1621216200773}
+{"_id":"env_a0b9aa3d35b7461d832028b13878b2af","type":"Environment","parentId":"env_4d6e3d89ee8c2e888e4f5cf8fcfb52592f2b3595","modified":1621216281125,"created":1621216264539,"name":"New Environment","data":{"hostname":"http://172.16.114.85"},"dataPropertyOrder":{"&":["hostname"]},"color":null,"isPrivate":false,"metaSortKey":1621216264539}
+{"$$deleted":true,"_id":"env_6eacd7766ef94fe284fd747cd4d8ee1f"}
+{"$$deleted":true,"_id":"env_a0b9aa3d35b7461d832028b13878b2af"}
